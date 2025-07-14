@@ -1,0 +1,8 @@
+{
+    "cuda": [
+        {
+            "repo_id": "Pictorial/Depth-Anything-V2-Large",
+            "local_path": "custom_nodes/ComfyUI-controlnet_aux/ckpts/depth-anything/Depth-Anything-V2-Large"
+        }
+    ]
+}
